@@ -5,11 +5,17 @@ This is a dataset from the Brazilian Public Health System it consists of more th
 This dataset has 14 charactaristics as below:
 
 PatientId: Identification of a patient
+
 AppointmentID: Identification of each appointment
+
 Gender: Male or Female
+
 Schedule Day: The day of regestration
+
 Appointment Day: The examiniation Day
+
 Age: How old is the patient
+
 Neighbourhood: Where the appointment took place
 Scholarship: True or False, indicates if the patient is in the Bolsa Familia program
 Hypertension: True or False
