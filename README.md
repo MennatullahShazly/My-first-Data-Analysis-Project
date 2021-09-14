@@ -4,23 +4,30 @@ This is a dataset from the Brazilian Public Health System it consists of more th
 
 This dataset has 14 charactaristics as below:
 
-PatientId: Identification of a patient
+1-PatientId: Identification of a patient
 
-AppointmentID: Identification of each appointment
+2-AppointmentID: Identification of each appointment
 
-Gender: Male or Female
+3-Gender: Male or Female
 
-Schedule Day: The day of regestration
+4-Schedule Day: The day of regestration
 
-Appointment Day: The examiniation Day
+5-Appointment Day: The examiniation Day
 
-Age: How old is the patient
+6-Age: How old is the patient
 
-Neighbourhood: Where the appointment took place
-Scholarship: True or False, indicates if the patient is in the Bolsa Familia program
-Hypertension: True or False
-Diabetes: True or False
-Alcoholism: True or False
-Handcap: Categorized from 0-4 as a number of handicaps
-SMS_received: True or False
-No_show : True or false, indicates that the patient attended to the appointment or not
+7-Neighbourhood: Where the appointment took place
+
+8-Scholarship: True or False, indicates if the patient is in the Bolsa Familia program
+
+9-Hypertension: True or False
+
+10-Diabetes: True or False
+
+11-Alcoholism: True or False
+
+12-Handcap: Categorized from 0-4 as a number of handicaps
+
+13-SMS_received: True or False
+
+14-No_show : True or false, indicates that the patient attended to the appointment or not
